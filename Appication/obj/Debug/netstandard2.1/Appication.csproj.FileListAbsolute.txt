@@ -1,0 +1,9 @@
+D:\Personal\UniversityManagement\Appication\bin\Debug\netstandard2.1\Appication.deps.json
+D:\Personal\UniversityManagement\Appication\bin\Debug\netstandard2.1\Appication.dll
+D:\Personal\UniversityManagement\Appication\bin\Debug\netstandard2.1\Appication.pdb
+D:\Personal\UniversityManagement\Appication\obj\Debug\netstandard2.1\Appication.csprojAssemblyReference.cache
+D:\Personal\UniversityManagement\Appication\obj\Debug\netstandard2.1\Appication.AssemblyInfoInputs.cache
+D:\Personal\UniversityManagement\Appication\obj\Debug\netstandard2.1\Appication.AssemblyInfo.cs
+D:\Personal\UniversityManagement\Appication\obj\Debug\netstandard2.1\Appication.csproj.CoreCompileInputs.cache
+D:\Personal\UniversityManagement\Appication\obj\Debug\netstandard2.1\Appication.dll
+D:\Personal\UniversityManagement\Appication\obj\Debug\netstandard2.1\Appication.pdb

@@ -1,0 +1,16 @@
+F:\Code\UniversityManagement\UniversityManagement\bin\Debug\net5.0\UniversityManagement.exe
+F:\Code\UniversityManagement\UniversityManagement\bin\Debug\net5.0\UniversityManagement.deps.json
+F:\Code\UniversityManagement\UniversityManagement\bin\Debug\net5.0\UniversityManagement.runtimeconfig.json
+F:\Code\UniversityManagement\UniversityManagement\bin\Debug\net5.0\UniversityManagement.runtimeconfig.dev.json
+F:\Code\UniversityManagement\UniversityManagement\bin\Debug\net5.0\UniversityManagement.dll
+F:\Code\UniversityManagement\UniversityManagement\bin\Debug\net5.0\ref\UniversityManagement.dll
+F:\Code\UniversityManagement\UniversityManagement\bin\Debug\net5.0\UniversityManagement.pdb
+F:\Code\UniversityManagement\UniversityManagement\obj\Debug\net5.0\UniversityManagement.csproj.AssemblyReference.cache
+F:\Code\UniversityManagement\UniversityManagement\obj\Debug\net5.0\UniversityManagement.GeneratedMSBuildEditorConfig.editorconfig
+F:\Code\UniversityManagement\UniversityManagement\obj\Debug\net5.0\UniversityManagement.AssemblyInfoInputs.cache
+F:\Code\UniversityManagement\UniversityManagement\obj\Debug\net5.0\UniversityManagement.AssemblyInfo.cs
+F:\Code\UniversityManagement\UniversityManagement\obj\Debug\net5.0\UniversityManagement.csproj.CoreCompileInputs.cache
+F:\Code\UniversityManagement\UniversityManagement\obj\Debug\net5.0\UniversityManagement.dll
+F:\Code\UniversityManagement\UniversityManagement\obj\Debug\net5.0\ref\UniversityManagement.dll
+F:\Code\UniversityManagement\UniversityManagement\obj\Debug\net5.0\UniversityManagement.pdb
+F:\Code\UniversityManagement\UniversityManagement\obj\Debug\net5.0\UniversityManagement.genruntimeconfig.cache

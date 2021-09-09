@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "r2/ZwQfbSiEs2RPpi/HRyxcAydmMF7xXbjRhDr4KBMuhQKGiHU4+Kf9qnEUms/wy3pBS1rjFvYJ5Nr2OFBzGOQ==",
+  "success": true,
+  "projectFilePath": "D:\\Personal\\UniversityManagement\\Appication\\Appication.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\R042011099\\.nuget\\packages\\mediatr\\9.0.0\\mediatr.9.0.0.nupkg.sha512",
+    "C:\\Users\\R042011099\\.nuget\\packages\\mediatr.extensions.microsoft.dependencyinjection\\9.0.0\\mediatr.extensions.microsoft.dependencyinjection.9.0.0.nupkg.sha512",
+    "C:\\Users\\R042011099\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\2.0.0\\microsoft.extensions.dependencyinjection.abstractions.2.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
